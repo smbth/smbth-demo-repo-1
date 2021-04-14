@@ -1,3 +1,3 @@
 # Demo
 
-A demo repository for testing purpose.
+A demo repository for testing purpose!
